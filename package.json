@@ -1,0 +1,8 @@
+{
+  "name": "replace",
+  "version": "1.0.0",
+  "main": "replace.js",
+  "plugins": [
+    "lotus-runner"
+  ]
+}
